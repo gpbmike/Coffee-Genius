@@ -1,0 +1,4 @@
+module.exports = {
+  CHANGE_AMOUNT: 'CHANGE_AMOUNT',
+  CHANGE_ROAST: 'CHANGE_ROAST'
+};
